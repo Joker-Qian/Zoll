@@ -1,12 +1,11 @@
 This file is just for test!
 their is bad man...
-<<<<<<< HEAD
+
 The second test...
 public class Server {
 	public static void main(String[] args) {
 		System.out.println("Hello world!");
 	}
 }
-=======
+
 http:403
->>>>>>> 4dfbe628fb2a7cd37774a33a33dd2b72a88adcc1
