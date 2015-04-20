@@ -1,2 +1,8 @@
 This file is just for test!
 their is bad man...
+The second test...
+public class Server {
+	public static void main(String[] args) {
+		System.out.println("Hello world!");
+	}
+}
