@@ -1,0 +1,17 @@
+#MyEclipse Hibernate Properties
+#Fri Jul 10 17:06:25 CST 2015
+genVersionTag=false
+sessionFactoryName=com.zoll.hibernate.sf.HibernateSessionFactory
+genAnnotations=false
+configFile=/merge/src/hibernate.cfg.xml
+reStrategyClass=
+sessionFactoryId=
+profile=
+detectM2M=false
+genBasicCompId=false
+keyGenerator=
+createConfigFile=true
+basePersistenceClass=
+detectO2O=false
+useJavaTypes=true
+reSettingsFile=
